@@ -1,4 +1,20 @@
 {
-    "name":"Dog NFT",
-    "description":"This my dog NFT"
+
+    "name":"DogToken",
+    "description":"This my Dog NFT.Please buy it",
+    "image":"",
+    "external_url":"",
+
+    "attributes":[
+        {
+            "trait_type":"Artifact",
+            "value":"Dog"
+        },
+        {
+            "trait_type":"Collection",
+            "value":"Unique"
+        }
+        
+
+    ]
 }
